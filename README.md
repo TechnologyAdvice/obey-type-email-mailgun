@@ -29,6 +29,6 @@ const model = obey.model({
 })
 ```
 
-License
+## License
 
 Obey is developed and maintained by [TechnologyAdvice](http://www.technologyadvice.com) and released under the [MIT](LICENSE.txt) license.

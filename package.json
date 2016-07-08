@@ -1,7 +1,7 @@
 {
   "name": "obey-type-email-mailgun",
   "version": "1.0.0",
-  "description": "Type strategy for validating email addresses with Mailgun ",
+  "description": "Type strategy for validating email addresses with Mailgun",
   "main": "index.js",
   "keywords": [
     "obey",
@@ -9,6 +9,14 @@
     "email",
     "mailgun"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TechnologyAdvice/obey-type-email-mailgun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TechnologyAdvice/obey-type-email-mailgun/issues"
+  },
+  "homepage": "https://github.com/TechnologyAdvice/obey-type-email-mailgun#readme",
   "author": "Kent Safranski <devteam+obey@technologyadvice.com>",
   "license": "MIT",
   "dependencies": {
