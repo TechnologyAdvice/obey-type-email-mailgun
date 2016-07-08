@@ -1,0 +1,18 @@
+{
+  "name": "obey-type-email-mailgun",
+  "version": "1.0.0",
+  "description": "Type strategy for validating email addresses with Mailgun ",
+  "main": "index.js",
+  "keywords": [
+    "obey",
+    "validation",
+    "email",
+    "mailgun"
+  ],
+  "author": "Kent Safranski <devteam+obey@technologyadvice.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "request-promise": "^3.0.0"
+  }
+}
