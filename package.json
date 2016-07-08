@@ -16,11 +16,19 @@
   "bugs": {
     "url": "https://github.com/TechnologyAdvice/obey-type-email-mailgun/issues"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "homepage": "https://github.com/TechnologyAdvice/obey-type-email-mailgun#readme",
   "author": "Kent Safranski <devteam+obey@technologyadvice.com>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.1",
     "request-promise": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "obey": "^1.4.5"
   }
 }

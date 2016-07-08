@@ -29,6 +29,10 @@ const model = obey.model({
 })
 ```
 
+## Testing
+
+Ensure that an environment variable `MAILGUN_API_KEY_PUBLIC` is present with a valid Public API Key for Mailgun. Run `npm test`.
+
 ## License
 
 Obey is developed and maintained by [TechnologyAdvice](http://www.technologyadvice.com) and released under the [MIT](LICENSE.txt) license.
