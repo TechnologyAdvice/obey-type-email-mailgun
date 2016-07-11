@@ -9,8 +9,5 @@ module.exports = function(obey, mailgunPublicKey) {
           context.fail(context.value + ' is an invalid email')
         }
       })
-      .catch(function(err) {
-        context.fail('Error validating email (' + context.value + '): ' + err.message)
-      })
   })
 }
